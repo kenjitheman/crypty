@@ -1,13 +1,3 @@
-## Golang cryptography library 
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="200" alt="go logo"  />
-</div>
-
-###
-
 ## Features/Functionality
 
 - **Library that provides cryptographic functions and algorithms, 
@@ -118,26 +108,6 @@ including encryption, decryption, hashing, and digital signatures, generation**
 	- **ImportRSAPublicKeyFromPEM(keyPEM string) (*rsa.PublicKey, error)***
    
 		- Imports an RSA public key from a PEM-encoded string.
- 
-## Project structure:
-
-```go
-crypty
-│
-├── decrypt
-│   └── decrypt.go
-├── digital_signatures
-│   └── digital_signatures.go
-├── encrypt
-│   └── encrypt.go
-├── go.mod
-├── go.sum
-├── hashing
-│   └── hashing.go
-├── random
-│   └── random.go
-└── README.md
-```
 
 ## Installation
 

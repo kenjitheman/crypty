@@ -142,7 +142,7 @@ crypty
 ## Installation
 
 ```sh
-go get github.com/kenjitheman/crypty
+go get github.com/btwkenji/crypty
 ```
 
 ## Contributing

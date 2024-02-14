@@ -1,4 +1,4 @@
-module github.com/btwkenji/crypty
+module github.com/kenjitheman/crypty
 
 go 1.20
 

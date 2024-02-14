@@ -112,7 +112,7 @@ including encryption, decryption, hashing, and digital signatures, generation**
 ## Installation
 
 ```sh
-go get github.com/btwkenji/crypty
+go get github.com/kenjitheman/crypty
 ```
 
 ## Contributing
